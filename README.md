@@ -58,6 +58,8 @@ Checked for duplicates and irrelevant records
 
 Checked after Standardized column formats
 
+Python File:
+
 4. SQL Analysis
 
 Imported the cleaned dataset into MySQL Server
@@ -66,11 +68,18 @@ Performed SQL queries to answer analytical questions
 
 Used aggregation, filtering, and grouping operations to derive insights
 
+
+You can download and view the queries here:
+
+SQLFile:
+
 5. Reporting & Presentation
 
 Created a structured analytical report summarizing findings
 
 Designed a presentation using Gamma to communicate insights effectively
+
+Report: 
 
 5. Presentation
 
@@ -90,7 +99,7 @@ Final recommendations based on the results
 
 You can download and view the presentation here:
 
-Download Presentation: https://github.com/Praful51/Airport_analysis_project/blob/37114b961be75c004d3064a57ec387410ecc9a04/Airport-Data-Analysis-Using-SQL%20Presentation.pdf
+Presentation: https://github.com/Praful51/Airport_analysis_project/blob/37114b961be75c004d3064a57ec387410ecc9a04/Airport-Data-Analysis-Using-SQL%20Presentation.pdf
 
 6. Results & Key Insights
 
