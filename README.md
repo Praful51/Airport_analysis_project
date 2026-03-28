@@ -104,7 +104,7 @@ Presentation: https://github.com/Praful51/Airport_analysis_project/blob/37114b96
 
 **6. Conclusion**
 
-This project demonstrates a complete data analytics pipeline, transforming raw data into actionable insights using industry-standard tools. It highlights core analytical skills including data preparation, SQL analysis, and data visualization.
+This project demonstrates a complete data analytics pipeline, transforming raw data into actionable insights using industry-standard tools. It highlights core analytical skills including data preparation, SQL analysis and data presentation.
 
 **7. Author**
 
