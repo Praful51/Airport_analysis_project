@@ -102,6 +102,42 @@ You can download and view the presentation here:
 
 Presentation: https://github.com/Praful51/Airport_analysis_project/blob/37114b961be75c004d3064a57ec387410ecc9a04/Airport-Data-Analysis-Using-SQL%20Presentation.pdf
 
+
+**5. Key Insights:**
+
+1. Busiest routes
+
+- Certain routes carry significantly high passenger volumes compared to
+others, indicating concentrated demand of travelling between specific
+cities
+
+2. Top Performing Origin Airports
+   
+- There are certain origin airports which are high performing
+comparatively with high numbers of passengers & flights being handled
+& departed from there
+
+3. Top Demanding Destination & Airports
+- We have certain high in demand destination cities & their airports with
+high number of passengers arriving there
+
+4. Underutilised Routes
+   
+- We have found certain routes between cities which are underutilised
+where they have low passenger volume but have flight frequency, they
+have got growth potential
+
+5. Top performing Airlines
+   
+- There are specific airlines which are dominating and performing well
+with having high passenger volumes with them compared to others
+
+6. High Connectivity Airports 
+- There are airports which have huge connectivity with large number of
+destinations connected with it
+
+
+
 **6. Conclusion**
 
 This project demonstrates a complete data analytics pipeline, transforming raw data into actionable insights using industry-standard tools. It highlights core analytical skills including data preparation, SQL analysis and data presentation.
