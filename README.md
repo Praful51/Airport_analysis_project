@@ -4,9 +4,8 @@ Data analytics project showcasing Airport & Airline analysis using Python, SQL a
 
 1. Project Overview
 
-This project demonstrates an end-to-end data analytics workflow, starting from raw data processing to generating business insights. The objective was to analyze the dataset, clean and prepare it for analysis, extract insights using SQL queries, and present the findings through a analytical report, and presentation.
+This project focuses on analyzing airport and airline data to uncover key insights related to flight operations, passenger trends, and overall performance. The dataset was explored using SQL, Python, and visualization tools to identify patterns and support data-driven decision-making.
 
-The project highlights practical skills commonly used by data analysts such as data cleaning, exploratory data analysis (EDA), SQL querying, and data visualization.
 
 2. Dataset
 
@@ -29,6 +28,8 @@ Python – Data loading, data cleaning, and exploratory data analysis
 Pandas – Data manipulation 
 
 MySQL Server – Querying the dataset and performing analytical SQL operations
+
+Power BI- Data Visualisation
 
 Gamma – Creating a presentation to communicate insights
 
