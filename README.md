@@ -132,11 +132,6 @@ have got growth potential
 - There are specific airlines which are dominating and performing well
 with having high passenger volumes with them compared to others
 
-6. High Connectivity Airports 
-- There are airports which have huge connectivity with large number of
-destinations connected with it
-
-
 
 **6. Conclusion**
 
