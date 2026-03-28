@@ -58,7 +58,7 @@ Checked for duplicates and irrelevant records
 
 Checked after Standardized column formats
 
-Python File:
+Python File: https://github.com/Praful51/Airport_analysis_project/blob/25a2956cca5944fa9ffb27f083d59ee9ed6c60b0/Airport_project.ipynb
 
 4. SQL Analysis
 
