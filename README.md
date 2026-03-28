@@ -71,7 +71,7 @@ Used aggregation, filtering, and grouping operations to derive insights
 
 You can download and view the queries here:
 
-SQLFile:
+SQLFile: https://github.com/Praful51/Airport_analysis_project/blob/bf5251b5418125a4f5e26bd75c32292658d805f3/AIRPORT_PROJECT.sql
 
 5. Reporting & Presentation
 
