@@ -107,27 +107,38 @@ Presentation: https://github.com/Praful51/Airport_analysis_project/blob/37114b96
 
 1. Busiest routes
 
+![Busy_routes](./images/busy_routes.png)   
+
 - Certain routes carry significantly high passenger volumes compared to
 others, indicating concentrated demand of travelling between specific
 cities
 
 2. Top Performing Origin Airports
+
+![origin_airports](./images/origin_airports.png) 
    
 - There are certain origin airports which are high performing
 comparatively with high numbers of passengers & flights being handled
 & departed from there
 
 3. Top Demanding Destination & Airports
+
+![destination_airports](./images/destination_airport.png) 
+
 - We have certain high in demand destination cities & their airports with
 high number of passengers arriving there
 
 4. Underutilised Routes
+
+![underutilised_routes](./images/underutilised_routes.png) 
    
 - We have found certain routes between cities which are underutilised
 where they have low passenger volume but have flight frequency, they
 have got growth potential
 
 5. Top performing Airlines
+
+![top_airlines](./images/top_airlines.png) 
    
 - There are specific airlines which are dominating and performing well
 with having high passenger volumes with them compared to others
