@@ -79,7 +79,7 @@ Created a structured analytical report summarizing findings
 
 Designed a presentation using Gamma to communicate insights effectively
 
-Report: 
+Report: https://github.com/Praful51/Airport_analysis_project/blob/46cedfb1d539451854798e980f921ee0dc01d698/Airport%20Data%20Analysis%20Project%20Summary%20(1).pdf
 
 5. Presentation
 
