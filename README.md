@@ -90,7 +90,7 @@ Final recommendations based on the results
 
 You can download and view the presentation here:
 
-Download Presentation: Airport-Data-Analysis-Using-SQL Presentation.pdf
+Download Presentation: https://github.com/Praful51/Airport_analysis_project/blob/37114b961be75c004d3064a57ec387410ecc9a04/Airport-Data-Analysis-Using-SQL%20Presentation.pdf
 
 6. Results & Key Insights
 
