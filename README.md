@@ -1,6 +1,6 @@
 # Airport_analysis_project
 
-Data analytics project showcasing Airport & Airline analysis using PYTHON, SQL and POWER BI
+Data analytics project showcasing Airport & Airline analysis using Python, SQL and Power BI
 
 1. Project Overview
 
