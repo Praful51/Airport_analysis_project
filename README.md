@@ -102,63 +102,11 @@ You can download and view the presentation here:
 
 Presentation: https://github.com/Praful51/Airport_analysis_project/blob/37114b961be75c004d3064a57ec387410ecc9a04/Airport-Data-Analysis-Using-SQL%20Presentation.pdf
 
-6. Results & Key Insights
-
-Some of the key insights derived from the analysis include:
-
-Identification of trends and patterns in the dataset
-
-Performance differences across airports and airlines
-
-Areas that require improvement or optimization
-
-Data-driven recommendations for better decision-making
-
-- Certain routes carry significantly high passenger volumes compared to others, indicating concentrated demand of travelling between specific cities
-
-- We have found certain routes between cities which are underutilised where they have low passenger volume but have flight frequency, they have got growth potential
-
-- There are specific airlines which are dominating and performing well with having high passenger volumes with them compared to others
- 
-
-**7. Project Structure**
-Project Folder 
-│ 
-├── data 
-│ 
-└── dataset.csv 
-│ 
-├── notebooks 
-│ 
-└── analysis.ipynb 
-│ 
-├── sql 
-│ 
-└── analysis_queries.sql 
-│ 
-├── report 
-│ 
-└── project_report.pdf 
-│ 
-├── presentation 
-│ 
-└── project_presentation.pdf
-
-**8. How to Run the Project**
-
-Clone this repository git clone
-
-Open the Jupyter Notebook to view the Python analysis.
-
-Import the cleaned dataset into MySQL Server and run the SQL queries provided.
-
-Open the Presentation PDF file to explore the presentation.
-
-**9. Conclusion**
+**6. Conclusion**
 
 This project demonstrates a complete data analytics pipeline, transforming raw data into actionable insights using industry-standard tools. It highlights core analytical skills including data preparation, SQL analysis, and data visualization, which are essential for real-world data analyst roles.
 
-**10. Author**
+**7. Author**
 
 PRAFUL SINGH Aspiring Data Analyst
 
